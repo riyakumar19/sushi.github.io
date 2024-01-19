@@ -1,4 +1,4 @@
-import AOS from "aos";
+import AOS from "aos/dist/aos.js";
 import "aos/dist/aos.css";
 
 // init AOS animation
